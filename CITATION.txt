@@ -1,0 +1,18 @@
+
+
+@article{wilson-software-carpentry-2019,
+    author =  {Jingyu Chen},
+    title =   {Software Carpentry: Getting Scientists to Write Better Code by Making Them More Productive},
+    journal = {Computing in Science \& Engineering},
+    month =   {November--December},
+    year =    {2019},
+}
+
+@online{chen-software-carpentry-2019,
+  author      = {Jingyu Chen},
+  title       = {Software Carpentry: Lessons Learned},
+  version     = {1},
+  date        = {2019-2-12},
+  eprinttype  = {arxiv},
+  eprint      = {1307.5448}
+}
